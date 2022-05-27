@@ -34,7 +34,7 @@ export default function Home(props) {
                   <p className={postTitle}>{post[1]}</p>
                   <div className={arrowContainer}>
                     <img
-                      src="/right-arrow.svg"
+                      src="https://raw.githubusercontent.com/dabit3/full-stack-web3/2f6c4e132968be386934ef72e77f7c2c399c25e6/public/right-arrow.svg"
                       alt="Right arrow"
                       className={smallArrow}
                     />
@@ -51,7 +51,11 @@ export default function Home(props) {
           /* to create the first post */
           <button className={buttonStyle} onClick={navigate}>
             Create your first post
-            <img src="/right-arrow.svg" alt="Right arrow" className={arrow} />
+            <img
+              src="https://raw.githubusercontent.com/dabit3/full-stack-web3/2f6c4e132968be386934ef72e77f7c2c399c25e6/public/right-arrow.svg"
+              alt="Right arrow"
+              className={arrow}
+            />
           </button>
         )}
       </div>
