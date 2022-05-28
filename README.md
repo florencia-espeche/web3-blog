@@ -1,7 +1,7 @@
 # Web3 Blog
 
 Home: 
-![Home](https://ibb.co/swgJYYc)
+![blog](https://user-images.githubusercontent.com/19168613/170832460-a8237d66-f0ad-4a51-8306-9ddcced04838.png)
 
 Post: 
-![Post](https://ibb.co/k4S3ycP)
+![post](https://user-images.githubusercontent.com/19168613/170832401-ce509594-4af0-4856-805e-90ad51ddc279.png)
